@@ -25,7 +25,7 @@ I am a passionate STEM enthusiast involved in space science, AI, and education. 
 ---
 <div align="center">
 <h3>🎙️ My Content Creation Journey</h3>
-Currently running Astronomiics (an AI generated space-news podcast) under The Whimper Podcast with 3500+ downloads.
+Currently running Astronomiics (an AI produced space-news podcast) under The Whimper Podcast with 3500+ downloads.
 
 <table align="center">
 <tr>
@@ -36,7 +36,7 @@ Currently running Astronomiics (an AI generated space-news podcast) under The Wh
 <strong>The Whimper Podcast</strong>
 </a>
 <br />
-<!-- <img src="" alt="Podcast Downloads"/> -->3500+ downloads
+3500+ downloads
 </td>
 </tr>
 </table>
