@@ -49,15 +49,15 @@ Currently running Astronomiics (an AI produced space-news podcast) under The Whi
 <!-- <p>&nbsp;</p> -->
 <p align="center">
 <a href="https://www.linkedin.com/in/divgunjan/" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"style="height:3rem"/>
+<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"style="height:3rem; text-decoration: none"/>
 </a>
 <a href="https://x.com/div_gunjan" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="X(Twitter)" style="height:3rem"/>
+<img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="X(Twitter)" style="height:3rem; text-decoration: none"/>
 </a>
 <a href="mailto:divyanshconvinces@gmail.com">
-<img src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" style="height:3rem;" alt="Email"/>
+<img src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" style="height:3rem; text-decoration: none" alt="Email"/>
 <a href="https://divgunjan.github.io/">
-<img src="https://img.icons8.com/?size=100&id=t8GnlEGySaKP&format=png&color=000000" style="height: 3rem" alt="My Site↗"></a>
+<img src="https://img.icons8.com/?size=100&id=t8GnlEGySaKP&format=png&color=000000" style="height: 3rem; text-decoration: none" alt="My Site↗"></a>
 </a>
 </p>
 </div>
