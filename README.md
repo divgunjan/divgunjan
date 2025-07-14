@@ -25,7 +25,7 @@ I am a passionate STEM enthusiast involved in space science, AI, and education. 
 ---
 <div align="center">
 <h3>🎙️ My Content Creation Journey</h3>
-Currently running Astronomiics (an AI produced space-news podcast) under The Whimper Podcast with 3500+ downloads.
+Currently running Astronomiics (an AI generated space-news podcast) under The Whimper Podcast with 3500+ downloads.
 
 <table align="center">
 <tr>
@@ -36,7 +36,7 @@ Currently running Astronomiics (an AI produced space-news podcast) under The Whi
 <strong>The Whimper Podcast</strong>
 </a>
 <br />
-3500+ downloads
+<!-- <img src="" alt="Podcast Downloads"/> -->3500+ downloads
 </td>
 </tr>
 </table>
@@ -48,16 +48,14 @@ Currently running Astronomiics (an AI produced space-news podcast) under The Whi
 
 <!-- <p>&nbsp;</p> -->
 <p align="center">
-<a href="https://www.linkedin.com/in/divgunjan/" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"style="height:3rem; text-decoration: none"/>
-</a>
-<a href="https://x.com/div_gunjan" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="X(Twitter)" style="height:3rem; text-decoration: none"/>
-</a>
-<a href="mailto:divyanshconvinces@gmail.com">
-<img src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" style="height:3rem; text-decoration: none" alt="Email"/>
-<a href="https://divgunjan.github.io/">
-<img src="https://img.icons8.com/?size=100&id=t8GnlEGySaKP&format=png&color=000000" style="height: 3rem; text-decoration: none" alt="My Site↗"></a>
-</a>
+<!-- <a href="https://www.linkedin.com/in/divgunjan/" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"style="height:3rem"/>
+</a> -->
+
+[![linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/divgunjan/)
+[![X](https://img.shields.io/badge/X.com-black)](https://x.com/div_gunjan)
+[![email](https://img.shields.io/badge/Gmail-red)](mailto:yourname@example.com)
+[![portfolio](https://img.shields.io/badge/Folio↗-blueviolet)](https://divgunjan.github.io/)
+
 </p>
 </div>
