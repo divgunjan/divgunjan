@@ -8,7 +8,7 @@
 <h3>🚀 About Me</h3>
 
 <p>
-I am a passionate STEM enthusiast involved in space science, AI, and education. I host an astro channel, have designed rocket components, and participated in citizen science projects. I try to be curious.</p>
+Running an astro podcast channel @The Whimper Podcast @Astronomiics. Interned in Mechanical Design @STAR. Student Researcher @YLAC.</p>
 </div>
 
 ---
