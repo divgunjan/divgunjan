@@ -8,7 +8,7 @@
 <h3>🚀 About Me</h3>
 
 <p>
-Running an astro podcast channel @The Whimper Podcast @Astronomiics. Interned in Mechanical Design @STAR. Student Researcher @YLAC.</p>
+Running an astro podcast channel @The Whimper Podcast @Astronomiics. Interned in Mechanical Design @STAR. QubitxQubit's Introduction to Quantum Computing; full ride scholarship(Fall 2024).</p>
 </div>
 
 ---
