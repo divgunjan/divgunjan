@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="font-size:16px">👋 Hey, I'm <b>Divyansh Gunjan!</b> I am learning to write code, trying to hone AI/ML.</div> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjk0MGZ1ZjZndXR5Nmt5a3RycmlkdWxmZTQ5cmJrZDQ3d3d1dDBtZiZlcD12MV9pbnRlcm5hb19naWZfYnlfaWQmY3Q9cw/4xxzGU0LelJmZ1Kulx/giphy.gif" alt="Waving Hand" style="height: 2.5em; vertical-align: middle;" align="center">
+<div style="font-size:16px">👋 Hey, I'm <b>Divyansh Gunjan</b>. And I'm trying to hone AI/ML.</div> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjk0MGZ1ZjZndXR5Nmt5a3RycmlkdWxmZTQ5cmJrZDQ3d3d1dDBtZiZlcD12MV9pbnRlcm5hb19naWZfYnlfaWQmY3Q9cw/4xxzGU0LelJmZ1Kulx/giphy.gif" alt="Waving Hand" style="height: 2.5em; vertical-align: middle;" align="center">
 </div>
 
 ---
@@ -8,24 +8,30 @@
 <h3>🚀 About Me</h3>
 
 <p>
-Running an astro podcast channel @The Whimper Podcast @Astronomiics. Interned in Mechanical Design @STAR. QubitxQubit's Introduction to Quantum Computing; full ride scholarship(Fall 2024).</p>
+Pods @The Whimper Podcast @Astronomiics. Mechanical Design @STAR VTIP 38.0. QubitxQubit's Introduction to Quantum Computing(Fall 2024)(Full Ride Scholarship).</p>
 </div>
 
 ---
 <div align="center">
-<h3>🛠️ My Tech Stack</h3>
+<h3>🛠️ Tech Stack</h3>
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="Google-Colab" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"alt="Pycharm" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Pandas" width="40" height="40" />
+          
+          
 </p>
 </div>
 
 ---
 <div align="center">
-<h3>🎙️ My Content Creation Journey</h3>
+<h3>🎙️Content Creation</h3>
 Currently running Astronomiics (an AI generated space-news podcast) under The Whimper Podcast with 3500+ downloads.
 
 <table align="center">
@@ -53,10 +59,13 @@ Currently running Astronomiics (an AI generated space-news podcast) under The Wh
 <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"style="height:3rem"/>
 </a> -->
 
-[![linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/divgunjan/)
-[![X](https://img.shields.io/badge/X.com-black)](https://x.com/div_gunjan)
-[![email](https://img.shields.io/badge/Gmail-red)](mailto:yourname@example.com)
-[![portfolio](https://img.shields.io/badge/Folio↗-blueviolet)](https://divgunjan.github.io/)
+
+<a href="https://www.linkedin.com/in/divgunjan/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30px" height="30px" /></a>
+<a href="https://x.com/div_gunjan">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="26px" height="30px"/>
+          </a>
+<a href="https://divgunjan.vercel.app/"><img src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-512.png" width="33px" height="33px" alt="visit-site"></a>
+
 
 </p>
 </div>
