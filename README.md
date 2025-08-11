@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="font-size:16px">👋 Hey, I'm <b>Divyansh Gunjan</b>. I'm low level programmer(literally)</div> <img src="https://imgs.search.brave.com/mTFP9vNodS-fOyksm-0rcaZHucmCEGkZFzu25pssrkA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/cm1fVnozUW5vQ0VB/QUFBTS9rYW1lbi1y/aWRlci1rYW1lbi1y/aWRlci1yeXVraS5n/aWY.gif" align="center" width="300px">
+<div style="font-size:16px">👋 Hey, I'm <b>Divyansh Gunjan</b>. I'm a low level programmer(literally)</div> <img src="https://imgs.search.brave.com/mTFP9vNodS-fOyksm-0rcaZHucmCEGkZFzu25pssrkA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/cm1fVnozUW5vQ0VB/QUFBTS9rYW1lbi1y/aWRlci1rYW1lbi1y/aWRlci1yeXVraS5n/aWY.gif" align="center" width="300px">
 </div>
 
 ---
