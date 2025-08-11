@@ -4,11 +4,11 @@
 </div>
 
 ---
-<div align="center">
+<div align="center
 <h3>🚀 About Me</h3>
 
 <p>
-Pods @The Whimper Podcast @Astronomiics. Mechanical Design @STAR VTIP 38.0. QubitxQubit's Introduction to Quantum Computing(Fall 2024)(Full Ride Scholarship).</p>
+Pods @The Whimper Podcast @Astronomiics. Mechanical Design @STAR VTIP 38.0. QubitxQubit's Introduction to Quantum Computing(Fall 2023)(Full Ride Scholarship).</p>
 </div>
 
 ---
