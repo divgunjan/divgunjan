@@ -124,7 +124,7 @@ Currently running @Astronomiics (an AI generated space-news podcast) under The W
 <a href="https://leetcode.com/div_gunjan/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://codolio.com/profile/div_gunjan"><img src="https://img.shields.io/badge/Codolio-000000.svg?style=for-the-badge&logo=hootsuite&logoColor=white" alt="Codolio" /></a>
 <br>✒️I write mini essays✒️<br>
-<a href="https://divgunjan.bearblog.dev/"><img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+<a href="https://tih.bearblog.dev/"><img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
 
 </p>
 </div>
