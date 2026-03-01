@@ -10,7 +10,7 @@
 <p>
 <p>
 Pods @The Whimper Podcast @Astronomiics.<br>  
-Mechanical Design @STAR VTIP 38.0.<br>
+Ex Mechanical Design Intern@STAR Labs, Surat VTIP 38.0.<br>
 QubitxQubit's Introduction to Quantum Computing (Fall 2023) (Received a Full Ride Scholarship).<br>
 <i>Currently</i> majoring in Information Science and Engineering as an undergrad.
 </p>
